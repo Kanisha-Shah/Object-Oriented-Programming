@@ -1,0 +1,9 @@
+Question:
+
+Create a program to simulate the working of ATM system. 
+A user can have an account in the bank and the ATM asks for 
+the user pin The user can withdraw at most Rs. 20,000 from the 
+account which is linked with her bank system. Also it is not possible 
+to withdraw the amount greater than the total amount present in the linked bank account. 
+The pin of the user’s debit card should not be visible.
+Use appropriate concepts of OOP to handle the user created exceptions.

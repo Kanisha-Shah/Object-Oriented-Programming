@@ -1,0 +1,49 @@
+
+Card Number: 401283854
+Pin: 1234
+Kanisha Shah's Balance: 2000
+User Name: Kanisha Shah
+Bank Name: SBI
+*****************************************
+
+Card Number: 560241145
+Pin: 4512
+Kahan Sheth's Balance: 6000
+User Name: Kahan Sheth
+Bank Name: SBI
+*****************************************
+
+Card Number: 31615769
+Pin: 12345
+Nivan Sheth's Balance: 6000
+User Name: Nivan Sheth
+Bank Name: SBI
+*****************************************
+
+Card Number: 250053751
+Pin: 1452
+Kartik Vaghela's Balance: 15487
+User Name: Kartik Vaghela
+Bank Name: Dena
+*****************************************
+
+Card Number: 976760542
+Pin: 7845
+Vivek Shah's Balance: 478512
+User Name: Vivek Shah
+Bank Name: Nutan
+*****************************************
+
+Card Number: 714296779
+Pin: 4875
+Rahul Shukla's Balance: 100000
+User Name: Rahul Shukla
+Bank Name: SBI
+*****************************************
+
+Card Number: 631756528
+Pin: 1234
+Yash Shukla's Balance: 10000
+User Name: Yash Shukla
+Bank Name: SBI
+*****************************************
